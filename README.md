@@ -20,7 +20,9 @@ This Django project allows users to search for restaurants and their dishes usin
 ```bash
 git clone https://github.com/yourusername/restaurant_search_project.git
 cd restaurant_search_project
-Now you have to run this command:
+
+
+### Now you have to run this command:
 ```
 pip install -r requirements.txt
 python manage.py migrate
